@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Certificate placeholder">
+  <rect width="800" height="600" fill="#f1efe9"/>
+  <rect x="24" y="24" width="752" height="552" fill="none" stroke="#141414" stroke-width="6"/>
+  <rect x="42" y="42" width="716" height="516" fill="none" stroke="#ee1c25" stroke-width="2" stroke-dasharray="10 8"/>
+  <text x="400" y="150" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="44" fill="#141414" letter-spacing="3">CERTIFICATE</text>
+  <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#141414" letter-spacing="6">OF COMPLETION</text>
+  <rect x="250" y="240" width="300" height="6" fill="#141414"/>
+  <rect x="200" y="290" width="400" height="14" fill="#141414" opacity=".15"/>
+  <rect x="240" y="324" width="320" height="14" fill="#141414" opacity=".15"/>
+  <text x="400" y="420" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="26" fill="#ee1c25">YOUR CERTIFICATE HERE</text>
+  <circle cx="400" cy="500" r="30" fill="#ee1c25"/>
+  <path d="M400 478 L406 494 L423 494 L409 504 L414 521 L400 511 L386 521 L391 504 L377 494 L394 494Z" fill="#f1efe9"/>
+</svg>
